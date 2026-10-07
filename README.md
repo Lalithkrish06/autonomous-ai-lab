@@ -39,7 +39,7 @@
 
 <div align="center">
 
-## 🚀 Aurix — Autonomous AI Lab
+##  ⚡ Aurix — Autonomous AI Lab
 
 **Immersive AI Intelligence · 3D Digital Twin · Interactive Android Experience**
 
