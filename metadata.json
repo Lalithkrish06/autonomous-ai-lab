@@ -1,0 +1,6 @@
+{
+  "name": "Autonomous AI Lab - Smarter Roads. Safer Tomorrow.",
+  "description": "Interactive cinematic 3D autonomous-driving research laboratory and digital twin experience tracking the APEX-1 vehicle through perception, sensor fusion, decision engine, and emergency response.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
