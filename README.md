@@ -50,7 +50,7 @@
 
 ### 📲 Scan • Download • Experience
 
-**Scan the QR code with your Android device to access the Aurix APK.**
+**Scan the QR code with your Android device to access the Aurix APP.**
 
 <br>
 
