@@ -35,8 +35,56 @@
 </div>
 
 ---
+# 📱 Android Application
 
-# ⚡ About The Project
+<div align="center">
+
+## 🚀 Aurix — Autonomous AI Lab
+
+**Immersive AI Intelligence · 3D Digital Twin · Interactive Android Experience**
+
+<br>
+<img width="207" height="242" alt="image" src="https://github.com/user-attachments/assets/e7cdcbdb-5b9d-4ba9-86f9-9f4e3f8d0de4" />
+
+<br>
+
+### 📲 Scan • Download • Experience
+
+**Scan the QR code with your Android device to access the Aurix APK.**
+
+<br>
+
+</div>
+
+<br>
+
+---
+
+## 🧠 Aurix Mobile Experience
+
+Aurix extends the **Autonomous AI Lab** experience from the browser to Android, providing a mobile entry point into the project's immersive digital environment.
+
+The Android application packages the Aurix web experience into a dedicated mobile application while maintaining the core visual identity and interactive experience.
+
+```text
+                         AURIX
+                   AUTONOMOUS AI LAB
+                           │
+             ┌─────────────┴─────────────┐
+             │                           │
+             ▼                           ▼
+        🌐 WEB EXPERIENCE          📱 ANDROID APP
+             │                           │
+             ▼                           ▼
+       Immersive 3D UI             Mobile Access
+             │                           │
+             └─────────────┬─────────────┘
+                           ▼
+                  🧠 AURIX EXPERIENCE
+```
+---
+
+## ⚡ About The Project
 
 **Aurix — Autonomous AI Lab** is an experimental, immersive web experience designed around the idea of **autonomous intelligence**.
 
