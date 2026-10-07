@@ -447,23 +447,48 @@ Aurix is deployed and accessible through the custom domain:
 
 ---
 
-# 📸 Website Preview
+# 🌐 Website Preview
 
 <div align="center">
 
-### 🧠 Aurix — Autonomous AI Lab
+### Aurix — Autonomous AI Lab
 
-**3D Web Experience · AI · Motion · Interactive Design**
+**3D Digital Twin · Autonomous Intelligence · Immersive Web Experience**
 
 <br>
 
 <a href="https://aurix.lalithkrish.dev/">
-
-<img src="https://img.shields.io/badge/⚡%20EXPLORE%20THE%203D%20EXPERIENCE-AURIX-111827?style=for-the-badge" alt="Explore Aurix">
+<img width="1917" height="1005" alt="Screenshot 2026-10-07 212520" src="https://github.com/user-attachments/assets/a4114972-6486-4ab9-90b2-4f14b18f0639" />
 
 </a>
 
 </div>
+
+<br>
+
+---
+
+## Digital Twin Initialization
+
+<div align="center">
+<img width="1917" height="1020" alt="Screenshot 2026-10-07 212542" src="https://github.com/user-attachments/assets/0b64badd-eecc-486e-9f26-7b617c29cb51" />
+
+</div>
+
+The initialization interface introduces the **Autonomous AI Lab** experience with a digital twin simulation environment, system readiness indicator, and immersive entry point into the platform.
+
+---
+
+## Autonomous AI Lab — 3D Experience
+
+<div align="center">
+  
+https://github.com/user-attachments/assets/6f5f976a-2437-40e1-ad40-0acfba31d382
+
+</div>
+
+The immersive interface presents the **Apex-1 Digital Twin**, combining a 3D simulation environment, autonomous driving telemetry, sensor status, neural pipeline monitoring, cinematic camera controls, and interactive AI simulation elements.
+
 
 ---
 
